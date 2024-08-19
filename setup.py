@@ -15,7 +15,7 @@ setup(
         'matplotlib',
         'mplfinance',
         'tqdm',
-        'sklearn',
+        'scikit-learn',
         'tensorflow==2.7.0',
         'torch==1.10.1',
     ]
