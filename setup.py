@@ -17,6 +17,6 @@ setup(
         'tqdm',
         'scikit-learn',
         'tensorflow==2.5.0',
-        'torch==2.2.0',
+        'torch==1.10.2',
     ]
 )
