@@ -16,7 +16,7 @@ setup(
         'mplfinance',
         'tqdm',
         'scikit-learn',
-        'tensorflow==2.7.0',
+        'tensorflow==2.5.0',
         'torch==2.2.0',
     ]
 )
